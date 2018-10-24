@@ -1,0 +1,70 @@
+
+.back {
+	background-color: #B0C4DE; 
+	width: 25%; 
+	text-align: center;
+	margin: auto;
+	margin-top: 15%;
+	padding: 10px;
+	font-size: 35px;
+	font-family; comic sans ms;
+	border-radius: 15px;
+}
+
+.Treadmill_string {
+	margin: auto;
+	background-color: white;
+	padding: 10px;
+	width: 250px;
+	border-radius: 8px;
+}
+
+.button {
+	 height: 30px;
+	 width: 70px;
+	 background-color: steelblue;
+	 border-radius: 8px;
+	 color: white;
+	 font-family; comic sans ms;
+}
+
+#n1 {
+	height: 30px;
+	background-color: lightyellow;
+	font-family: comic sans ms;
+	border-radius: 8px;
+}
+
+#n2 {
+	height: 30px;
+	background-color: lightyellow;
+	font-family: comic sans ms;
+	border-radius: 8px;
+}
+
+.num {
+	font-family: comic sans ms;
+	font-size: 25px;
+	margin: auto;
+	padding: 10px;
+}
+
+.button1 {
+	background-color: #7B68EE;
+	color: #E6E6FA;
+	height:60px;
+	width: auto;
+	font-family: comic sans ms;
+	font-size: 30px;
+	border-radius: 8px;
+	margin: auto;
+}
+
+#out {
+	background-color: lightyellow;
+	width: auto;
+	height: auto;
+	font-family; comic sans ms;
+	border-radius: 8px;
+	font-size: 25px;
+}

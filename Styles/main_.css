@@ -1,0 +1,24 @@
+
+h1 {
+  width: 450px;
+  color: white;
+  font-family: arial;
+  font-size: 70px;
+  font-weight: lighter; 
+  background: #4B0082;
+  text-align: center;
+  margin:auto;
+  margin-top: 20%;
+  }
+
+.main {
+  background-color: lightblue;
+  width: 350px;
+  padding: 10px; 
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+}
+body{
+	background-image: url(Img/calc1.jpg);
+}
